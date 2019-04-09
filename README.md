@@ -1,4 +1,4 @@
-# NGXXX
+# NGXXX - Angular Service Excercise ([slides](https://docs.google.com/presentation/d/1uqaR8-Nwr1nOhbI9dHfcr3OFY3oYsWzT-lPeg1pBBxo/edit?usp=sharing))
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
