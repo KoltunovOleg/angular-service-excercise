@@ -1,0 +1,11 @@
+<h2>
+  Teacher works!
+</h2>
+<button (click)="announce()">Announce Lesson</button>
+<app-pupil [name]="pupil" *ngFor="let pupil of pupils;">
+</app-pupil>
+<ol>
+  <li *ngFor="let item of history; let iAmTheFirst = first;">
+    {{item}}<span *ngIf="iAmTheFirst"> - responded first!</span>
+  </li>
+</ol>
